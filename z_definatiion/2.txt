@@ -1,0 +1,19 @@
+structure of c++ program
+	
+	header file
+	# define constant
+	class defination
+	class member function
+	main method
+	
+main library - iostream
+std namespace
+
+cout  - object of ostream class
+cin - object of istream class
+
+<< - stream insertion operator
+>> - stream extraction operator
+:: - scope resolution operator
+
+	
